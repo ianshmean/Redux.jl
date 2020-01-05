@@ -106,9 +106,7 @@ deps = ["Serialization"]
 uuid = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [[Redux]]
-git-tree-sha1 = "c42dce63fce6c92817888e8d7470b52246ec17a2"
-repo-rev = "master"
-repo-url = "https://github.com/Gnimuc/Redux.jl.git"
+path = "/Users/gnimuc/.julia/dev/Redux"
 uuid = "6d653af8-ad40-11e9-2720-9f1294ef7658"
 version = "0.1.0"
 
