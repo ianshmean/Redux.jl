@@ -1,0 +1,6 @@
+name = "SimplerApp"
+uuid = "97a95c61-6518-49e6-a66b-cb14b3855470"
+version = "0.1.0"
+
+[deps]
+CImGui = "5d785b6c-b76f-510e-a07c-3070796c7e87"
